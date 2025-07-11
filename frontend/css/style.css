@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+section h2 {
+  font-weight: bold;
+}
+
+.btn-light {
+  color: #000;
+  font-weight: bold;
+}
