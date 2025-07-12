@@ -12,10 +12,24 @@ section h2 {
   font-weight: bold;
 }
 
+/* quiz page custom styling */
+
 h2 {
   color: #0d6efd;
 }
 
 .form-label {
   font-weight: bold;
+}
+
+/* result page custom styles */
+
+.card-title {
+  font-weight: 600;
+  color: #0d6efd;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #333;
 }
